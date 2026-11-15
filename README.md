@@ -4,7 +4,7 @@
 
 I'm a **2nd-year Digital Development student** at OFPPT (Oujda, Morocco), passionate about building clean, functional web applications.
 
-- Currently learning **React.js**, **Node.js**, and **PHP/Laravel**
+- Currently learning **React.js** and **PHP/Laravel**
 - Looking for a **1-month internship** in Full Stack Web Development in France
 - Based in **Oujda, Morocco**
 - Languages: Arabic (native), French (intermediate), English (basic)
